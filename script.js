@@ -1,5 +1,5 @@
 // Typing Effect
-const text = "V.GOPALN";
+const text = "V.GOPALAN";
 const name = document.getElementById("name");
 
 let i = 0;
